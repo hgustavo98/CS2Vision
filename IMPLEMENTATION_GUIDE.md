@@ -37,7 +37,7 @@ CS2Vision/
 - [ ] Integrar bibliotecas para extração de dados das demos.
 
 ### 2. Inteligência Artificial
-- [ ] Desenvolver modelo para identificar padrões (movimentação, estratégias, etc.).
+- [x] Desenvolver modelo para identificar padrões (movimentação, estratégias, etc.).
 - [ ] Salvamento e carregamento de modelos treinados.
 
 ### 3. Frontend
