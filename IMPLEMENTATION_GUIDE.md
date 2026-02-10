@@ -42,7 +42,7 @@ CS2Vision/
 
 ### 3. Frontend
 - [ ] Configurar ambiente React.
-- [ ] Criar interface inicial para upload de demos e visualização de progresso.
+- [x] Criar interface inicial para upload de demos e visualização de progresso.
 - [ ] Implementar componentes visuais para análises (graficos, mapas).
 
 ### 4. Integração Backend + Frontend
