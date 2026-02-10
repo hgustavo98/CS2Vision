@@ -1,8 +1,12 @@
 from fastapi import FastAPI, UploadFile
+from ml_routes import router as ml_router
 import subprocess
 import os
 
 app = FastAPI()
+
+# Include ML routes
+app.include_router(ml_router)
 
 UPLOAD_DIR = "uploads"
 os.makedirs(UPLOAD_DIR, exist_ok=True)
