@@ -32,8 +32,8 @@ CS2Vision/
 ## Passos de Implementação
 
 ### 1. Backend
-- [ ] Configurar ambiente com `virtualenv` e instalar dependências básicas.
-- [ ] Criar endpoints para upload de demos e processamento de dados.
+- [x] Configurar ambiente com `virtualenv` e instalar dependências básicas.
+- [x] Criar endpoints para upload de demos e processamento de dados.
 - [ ] Integrar bibliotecas para extração de dados das demos.
 
 ### 2. Inteligência Artificial
@@ -41,7 +41,7 @@ CS2Vision/
 - [ ] Salvamento e carregamento de modelos treinados.
 
 ### 3. Frontend
-- [ ] Configurar ambiente React.
+- [x] Configurar ambiente React.
 - [x] Criar interface inicial para upload de demos e visualização de progresso.
 - [ ] Implementar componentes visuais para análises (graficos, mapas).
 

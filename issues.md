@@ -1,14 +1,16 @@
-# CS2Vision - Issues identificadas
+# CS2Vision - Pending Issues
 
-## 1. Integração contínua entre ML e Frontend
-- Melhorar a comunicação entre o modelo de aprendizado de máquina e o frontend para visualização de dados em tempo real.
-- Criar componentes mais robustos para destacar insights diretamente na interface.
+## Backend
+- [ ] Integrar bibliotecas para extração de dados das demos.
+- [ ] Salvamento e carregamento de modelos treinados.
 
-## 2. Feature Engineering pendente
-- Implementar todas as métricas listadas nas especificações principais, como presença em heatmap e taxa de trade.
+## Frontend
+- [ ] Implementar componentes visuais para análises (gráficos, mapas).
 
-## 3. Classificação de Roles
-- Ajustar a lógica de classificação para justificar completamente os papéis atribuídos com base em métricas quantitativas.
+## Integração
+- [ ] Criar API RESTful no backend.
+- [ ] Consumir API no frontend para visualização.
 
----
-Todas as tarefas acima são essenciais para cumprir as entregas definidas.
+## Testes e Documentação
+- [ ] Documentar as APIs e as funções implementadas.
+- [ ] Testar o fluxo de ponta-a-ponta.
