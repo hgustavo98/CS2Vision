@@ -34,24 +34,23 @@ CS2Vision/
 ### 1. Backend
 - [x] Configurar ambiente com `virtualenv` e instalar dependências básicas.
 - [x] Criar endpoints para upload de demos e processamento de dados.
-- [ ] Integrar bibliotecas para extração de dados das demos.
+- [x] Integrar bibliotecas para extração de dados das demos.
 
 ### 2. Inteligência Artificial
 - [x] Desenvolver modelo para identificar padrões (movimentação, estratégias, etc.).
-- [ ] Salvamento e carregamento de modelos treinados.
+- [x] Salvamento e carregamento de modelos treinados.
 
 ### 3. Frontend
 - [x] Configurar ambiente React.
 - [x] Criar interface inicial para upload de demos e visualização de progresso.
-- [ ] Implementar componentes visuais para análises (graficos, mapas).
+- [x] Implementar componentes visuais para análises (graficos, mapas).
 
 ### 4. Integração Backend + Frontend
-- [ ] Criar API RESTful no backend.
-- [ ] Consumir API no frontend para visualização.
+- [x] Criar API RESTful no backend.
+- [x] Consumir API no frontend para visualização.
 
 ### 5. Documentação e Testes
-- [ ] Documentar as APIs e as funções implementadas.
-- [ ] Testar o fluxo de ponta-a-ponta.
+- [ ] Documentar as APIs e as funções implementadas.- [x] Testar o fluxo de ponta-a-ponta.
 
 ---
 
